@@ -9,7 +9,7 @@
 - Game developer (Using [Godot Engine](https://github.com/godotengine/godot))
 
 # //Create //Experiment //Game
-### Linux Experimentations at my main profile repos
+### Linux experimentations and campus assignments at my main profile repos
 ### Android projects, in aliance with #TeamRadishBlue:
 - [DeltΔAddons \\\ FerventTempOS ROM projects](https://github.com/DeltaPrjkts)
 - [Device Experimentations Orgs](https://github.com/hrzndeltaprjkts)
