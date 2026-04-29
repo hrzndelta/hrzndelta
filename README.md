@@ -13,7 +13,6 @@
 ### Android projects, in aliance with #TeamRadishBlue:
 - [DeltΔAddons \\\ FerventTempOS ROM projects](https://github.com/DeltaPrjkts)
 - [Device Experimentations Orgs](https://github.com/hrzndeltaprjkts)
-- [Samsung Galaxy A34 5G device development](https://github.com/mt6877v-a34x)
 ### (#AFK) Game developing at:
 - [EXLGames](https://github.com/EXLGames)
 - [hrzndelta at itch.io](https://hrzndelta.itch.io/)
