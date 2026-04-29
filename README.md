@@ -10,7 +10,7 @@
 
 # //Create //Experiment //Game
 ### Linux experimentations and campus assignments at my main profile repos
-### Android projects, in aliance with #TeamRadishBlue:
+### Android projects:
 - [DeltΔAddons \\\ FerventTempOS ROM projects](https://github.com/DeltaPrjkts)
 - [Device Experimentations Orgs](https://github.com/hrzndeltaprjkts)
 ### (#AFK) Game developing at:
